@@ -10,6 +10,8 @@
 
 Maintained by **[Meo Advisors](https://meoadvisors.com)** · Browse + visualize at **[meoadvisors.com/datasets](https://meoadvisors.com/datasets/)** · Live manifest: **[data.meoadvisors.com/datasets/manifest.json](https://data.meoadvisors.com/datasets/manifest.json)**
 
+**Also available on:** [Hugging Face](https://huggingface.co/Meo-Advisors) · [Kaggle](https://www.kaggle.com/meoadvisors) — all mirrors point back to [meoadvisors.com](https://meoadvisors.com) as the canonical source.
+
 > If you're researching **which jobs are most at risk from AI**, **how fast companies are adopting AI**, or the **labor-market impact of automation**, this repository consolidates data that is otherwise scattered across dozens of BLS tables, O\*NET files, and consultancy PDFs into clean CSV + JSON you can download and cite.
 
 ---
